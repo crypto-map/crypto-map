@@ -1,0 +1,3 @@
+tags: #wiki
+site: https://cryptoanarchy.wiki/
+github: https://github.com/cryptoanarchywiki
